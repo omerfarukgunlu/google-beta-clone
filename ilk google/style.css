@@ -1,0 +1,58 @@
+html {
+    margin: 0px 5%;
+}
+
+#aramakutusu {
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+
+#textbox {
+    width: 300px;
+
+}
+
+/* Arama kutusunun altında oluşturulan kutucuklar */
+
+.container {
+    height: 65px;
+    margin-top: 1px;
+    text-align: center;
+    
+    width: 100%;
+    
+}
+
+#box1 {
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 36%;
+    padding: 10px;
+    height: 55px;
+}
+
+#box2 {
+    background-color: rgb(112, 204, 194);
+    height: 65px;
+    width: 20% ;
+    font-size: 13px;
+    padding: 5px;
+    float: left;
+    margin: 0 2px;
+}
+#box3 {
+    background-color: rgb(98, 179, 170);
+    font-size: 12px;
+    float: left;
+    width: 41.5%;
+    height: 75px;
+}
+.copyright {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 13px;
+}
+
+a {
+    color: blue;
+}
